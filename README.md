@@ -30,6 +30,8 @@ Natural disasters are becoming more economically devastating to the areas that t
 
 
 ### Executive Summary 
+Note: Reference 'Wage Loss by Industry and County' first, before proceeding to the 'Wage Loss Quarter Over Quarter' notebook. In our effort to make this as clear as possible, the notebooks have been labeled FIRST and SECOND
+
 In regards to the natural disaster, we selected hurricanes and defined economic losses specifically as “wage losses”. We isolated the state of Texas and the impact it endured from Hurricane Harvey in August of 2017. Our goal was to analyze the impact of Harvey on a county by county, industry by industry basis in order to generate a predictive model that would be able to take inputs for each of the aforementioned variables and generate a range of predicted economic losses. We chose Harvey due to the massive damage that was inflicted on one section of Texas and the range of affected industries that occupied that zone. 
 
 As our team dove into the above problem statement, we started with high hopes about this topic due to its scope and level of historical economic impact. Almost immediately however, we came to the conclusion that this was more difficult than we could have imagined for multiple reasons. First and foremost the two sources that were recommended in the prompt both have strict, explicit rules in their terms of service agreements about data collection. This included all of the methods that we were to attempt, making it clear that we were to come up with alternative data sources that not only were robust but also allowed the analysis of their data.
