@@ -1,5 +1,5 @@
 # Predicting the Economic Loss due to Natural Disasters
-Prepared by Chen Chen Chen, Matt Andrecovich and Jon Reynolds
+Prepared by Jon Reynolds, Chen Chen Chen and Matt Andrecovich
 
 
 ## Table of Contents
